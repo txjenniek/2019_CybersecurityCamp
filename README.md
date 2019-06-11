@@ -6,5 +6,6 @@ CODE@TACC Cybersecurity camp materials
 * Gone Rogue PCAPs: https://cisco.box.com/s/pj4658i1rc71v0mkyosxo96lx4dhc8m7
 
 ## Library - LinkedIn
-* https://students.linkedin.com/ - Interview tips & linke to jobs portal
+* https://students.linkedin.com/ - Interview tips & link to jobs portal
+![student internship screenshot](linkedin-internships)
 
